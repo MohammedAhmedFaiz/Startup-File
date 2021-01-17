@@ -17,3 +17,6 @@ Step 5 - Paste the shortcut here
 
 
 **Now the file/program will run when the computer boots**
+
+
+If you want to test this then you can download the cmd.bat file and paste it. It will open the command prompt everytime the pc boots
